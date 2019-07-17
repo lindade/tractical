@@ -1,2 +1,3 @@
 # Tractical
-Tractical is an imaginary technical product company website build with HTML5, CSS3 and JavaScript. The website is completely responsive, based on Bootstrap 4.
+Tractical is a multipage website for an imaginary technical product company build with HTML5, CSS3 and JavaScript. The website is completely responsive, based on Bootstrap 4.
+The photo gallery is implemented with the Ekko-lightbox JavaScript plugin for Bootstrap.
