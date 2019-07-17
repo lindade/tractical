@@ -74,6 +74,12 @@ body {
   .about-img {
     margin-top: -50px;
   }
+
+  @media(min-width: 1200px) {
+    .about-text {
+      margin-top: 50px;
+    }
+  }
 }
 
 #page-header {
