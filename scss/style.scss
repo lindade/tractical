@@ -75,7 +75,7 @@ body {
     margin-top: -50px;
   }
 
-  @media(min-width: 1200px) {
+  @media (min-width: 1200px) {
     .about-text {
       margin-top: 50px;
     }
@@ -94,6 +94,11 @@ body {
 
 #main-services {
   #faq {
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.5rem;
+      }
+    }
     .card {
       border: #444;
     }
@@ -117,11 +122,9 @@ body {
   }
 }
 
-@media(max-width: 768px) {
-
+@media (max-width: 768px) {
   // add a margin botton only to small screen
   .mb-resp {
     margin-bottom: 1rem;
   }
-
 }
