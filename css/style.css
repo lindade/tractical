@@ -86,7 +86,7 @@ body {
   padding-top: 50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   #main-services #faq h1 {
     font-size: 1.5rem;
   }
